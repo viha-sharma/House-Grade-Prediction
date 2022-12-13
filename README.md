@@ -37,9 +37,13 @@ As this is a classification problem, I will be utilising supervised machine lear
 ### 💠Project Objectives
 
 ➣ Exploratory Data Analysis (Univariate & Bivariate analysis) and data report generation
+
 ➣ Data Preprocessing
+
 ➣ Model Building
+
 ➣ Building Pipelines
+
 ➣ Model Evaluation - using scores of accuracy, precision, recall and f1. 
 
 ---
